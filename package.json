@@ -1,0 +1,13 @@
+{
+  "name": "CodeBot",
+  "private": true,
+  "scripts": {
+    "dev": "cross-env NODE_ENV=dev func start"
+  },
+  "dependencies": {
+    "cross-env": "latest",
+    "botbuilder-ai-luis": "4.14.1-preview",
+    "botbuilder-ai-qna": "4.14.1-preview",
+    "botbuilder-dialogs-adaptive-runtime-integration-azure-functions": "4.14.1-preview"
+  }
+}

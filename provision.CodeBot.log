@@ -1,0 +1,20 @@
+{
+  "profileName": "CodeBot",
+  "jobId": "97d1ef02-fb6b-439d-9090-21100ccf0685",
+  "projectId": "61770.327304260885",
+  "time": "2021-11-25T07:44:34.565Z",
+  "log": [
+    "Creating Azure resources...",
+    "Checking the Existence of the Resource Group ...",
+    "Creating Resource Group ...",
+    "> Creating App Registration ...",
+    "Start to add password for App, Id : 3f04ce45-d1e4-4471-ab48-3636933d5e1e",
+    "> Create App Registration Success! ID: 3f04ce45-d1e4-4471-ab48-3636933d5e1e",
+    "Deploying Azure Functions Resource ...",
+    "Deploying Azure Functions Success",
+    "Deploying Bot Resource ...",
+    "Deploying Cosmos DB Resource ...",
+    "Deploying Blob Storage Resource ...",
+    "Provisioning completed successfully!"
+  ]
+}
