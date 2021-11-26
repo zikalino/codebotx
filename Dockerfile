@@ -14,6 +14,6 @@ RUN npm install
 COPY . /usr/src/app
 
 # Expose a random port
-EXPOSE 3978
+EXPOSE 80
 
 CMD [ “node”, “index” ]
